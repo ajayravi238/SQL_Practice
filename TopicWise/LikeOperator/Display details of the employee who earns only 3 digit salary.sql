@@ -1,0 +1,3 @@
+SELECT *
+FROM EMP
+WHERE SAL LIKE '___';
